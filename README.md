@@ -1,5 +1,9 @@
 # IDFBlog
-Free Open Source Project Blogging System build with Codeigniter 3 by ID Foundation
+Free Open Source Project Blogging System build with Codeigniter 3 by ID Foundation.
+
+Thanks to:
+- Codeigniter Team
+- Bootstrap Framework
 
 # How To Install
 1. Download master project or you can use -> git clone https://github.com/IDFoundation/IDFBlog.git
