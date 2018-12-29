@@ -20,9 +20,9 @@ Don't use for Commersial Purpose!!! if you want, please contact me first to appr
 This project was copyrighted by ID Foundation as a Developer and provide open source based services
 
 # Stay Connect with me on
-Youtube: https://youtube.com/IDFoundation
-Facebook: https://www.facebook.com/IDFoundation
-Instagram: https://www.instagram.com/IDFoundation
-Email: idfoundations@gmail.com
+- Youtube: https://youtube.com/IDFoundation
+- Facebook: https://www.facebook.com/IDFoundation
+- Instagram: https://www.instagram.com/IDFoundation
+- Email: idfoundations@gmail.com
 
 Send me a feedback too :)
