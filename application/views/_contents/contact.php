@@ -1,0 +1,1 @@
+Hello Ini adalah contact.
