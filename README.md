@@ -15,7 +15,7 @@ Thanks to:
 
 # Donation
 Please feel free to contact to buy me coffee to keep supported. all of your support means a lot to me.
-Contact me on email: idfoundations@gmail.com
+- Contact me on email: idfoundations@gmail.com
 
 # DISCLAIMER
 Don't use for Commersial Purpose!!! if you want, please contact me first to appreciate my work with a little donation.
